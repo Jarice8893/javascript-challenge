@@ -98,7 +98,7 @@
     padding: 20px;
     margin: 0;
     background: black;
-    background-image: url("C:/Users/jmarshall.000/Desktop/nu-chi-data-pt-04-2021-u-c/javascript-challenge/UFO-level-1/static/images/nasa.jpg");
+    background-image: url("./images/nasa.jpg");
     background-attachment: fixed;
     background-position: bottom center;
     background-size: cover;
